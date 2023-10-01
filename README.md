@@ -35,7 +35,7 @@
 
 - :zap: В свободное время я решаю задачи на leetcode и читаю техническую литературу. А также делаю разные 'штуки' на arduino
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/RKSI_maksim)
+- :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/RKSI_maksim)
 
 ---
 
