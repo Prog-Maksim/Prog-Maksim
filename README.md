@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="300"/>
 
   <div id="badges">
-  <a href="https://t.me/RKSI_maksim">
+  <a href="https://t.me/ProgMaksim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.com/channels/@максим2200">
@@ -35,7 +35,7 @@
 
 - :zap: В свободное время я решаю задачи на leetcode и читаю техническую литературу. А также делаю разные 'штуки' на arduino
 
-- :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/RKSI_maksim)
+- :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/ProgMaksim)
 
 ---
 
